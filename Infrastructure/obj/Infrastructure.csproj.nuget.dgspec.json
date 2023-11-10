@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AFOLAYAN\\Desktop\\Mkan Project\\TicketService\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\USER\\Desktop\\ServiceTicket\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AFOLAYAN\\Desktop\\Mkan Project\\TicketService\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\USER\\Desktop\\ServiceTicket\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AFOLAYAN\\Desktop\\Mkan Project\\TicketService\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\ServiceTicket\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\AFOLAYAN\\Desktop\\Mkan Project\\TicketService\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\AFOLAYAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AFOLAYAN\\Desktop\\Mkan Project\\TicketService\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\ServiceTicket\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\ServiceTicket\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AFOLAYAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
